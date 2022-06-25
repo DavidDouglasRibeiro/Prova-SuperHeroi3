@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+a, a:link, a:visited, a:active{
+    text-decoration: none;
+    display: inline-block;
+}
+
+.navegar {
+    margin-top: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #3580a3;
+    padding: 0.6rem 0.8rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}

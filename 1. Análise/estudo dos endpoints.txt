@@ -1,0 +1,27 @@
+/////////////////////////////////////////////////////////////////////////////
+    // Inserir Heróis //
+
+(1) /POST       /superheroi
+request{}
+    "nome": ?,
+    "super_poder": ?,
+    "voa": ?
+}
+reponse{
+    "id": ?,
+    "nome": ?,
+    "super_poder": ?,
+    "voa": ?
+}
+
+/////////////////////////////////////////////////////////////////////////////
+    // Consultar Heróis //
+
+(2) /GET       /superheroi
+
+reponse{
+    "id": ?,
+    "nome": ?,
+    "super_poder": ?,
+    "voa": ?
+}
